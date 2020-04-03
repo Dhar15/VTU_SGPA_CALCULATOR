@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class main {
+public class SgpaCalculator {
 	public static void main(String[] args) {
 		System.out.println("This is a VTU GPA Calculator. Enter your subject name and credit score respectively,"
 				+ " followed by the marks obtained by you. The program will return your desired SGPA.");
