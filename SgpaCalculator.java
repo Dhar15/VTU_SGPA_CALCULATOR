@@ -13,9 +13,9 @@ public class SgpaCalculator {
 		int cred[] = new int[n];
 		int marks[] = new int[n];
 		int gradePoint[] = new int[n];
-    int finalScore[] = new int[n];
-    int gradeTotal=0;
-    int totalCredit=0;
+    		int finalScore[] = new int[n];
+    		int gradeTotal=0;
+    		int totalCredit=0;
 		
 		for(int i=0;i<n;i++) {
 			System.out.print("Subject Name " + (i+1) + ":");
